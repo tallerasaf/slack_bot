@@ -1,0 +1,3 @@
+ONE_MINUTE = 1_000
+SCHEDULE_TIME = ONE_MINUTE
+BOT_NAME = "average_bot"
