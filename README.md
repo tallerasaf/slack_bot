@@ -10,4 +10,6 @@ Python bot for interacting with slack users.
 
 ## Built With
 
-* [Newspaper3k](https://newspaper.readthedocs.io/en/latest/) - Article scraping & curation
+* [Flask](http://flask.pocoo.org/docs/1.0/) - Micro web framework.
+* [Flask RESTFull](https://flask-restful.readthedocs.io/en/latest/) -  an extension for Flask that adds support for quickly building REST APIs.
+* [python-rtmbot](https://github.com/slackapi/python-rtmbot/tree/master/docs) - A Slack bot written in Python that connects via the RTM API.
