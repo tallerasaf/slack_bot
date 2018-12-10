@@ -1,4 +1,4 @@
-# News Crawler
+# Slack Bot
 
 Python bot for interacting with slack users.
 
